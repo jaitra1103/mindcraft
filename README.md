@@ -1,1 +1,1 @@
-# mindcraft
+# minecraft
